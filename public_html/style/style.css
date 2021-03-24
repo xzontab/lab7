@@ -59,4 +59,16 @@
  background-image: url(../images/footer.jpg);
  background-repeat: repeat-x;
 }
+body{
+ width:800px;
+ padding-left:50%;
+ margin:0px;
+}
+ 
+#main{
+ width:800px;
+ margin-left:-400px;
+ background-image: url(../images/fon_bg.jpg);
+ background-repeat: repeat-y;
+}
 
